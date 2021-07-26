@@ -1,0 +1,30 @@
+[
+    {
+        "model": "api.producer",
+        "pk": 1,
+        "fields": {
+            "name": "Gary Kurtz"
+        }
+    },
+    {
+        "model": "api.producer",
+        "pk": 2,
+        "fields": {
+            "name": "Rick McCallum"
+        }
+    },
+    {
+        "model": "api.producer",
+        "pk": 3,
+        "fields": {
+            "name": "George Lucas"
+        }
+    },
+    {
+        "model": "api.producer",
+        "pk": 4,
+        "fields": {
+            "name": "Howard G. Kazanjian"
+        }
+    }
+]
